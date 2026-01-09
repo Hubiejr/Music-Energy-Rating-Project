@@ -10,5 +10,5 @@ For motivation, I am a guitar player and I listen to alot of music and I wanted 
 ### Technologies used
 - **POWERBI** (data analysis and visualization)
 
-# MAIN Jupyter Notebook file
+# MAIN PowerBI File
 ``MusicEnergy.pbix``
